@@ -1,48 +1,27 @@
 title: Comco 2023
 big_title: Computational Conference 2023
 email: comco@uni-osnabrueck.de
-date: 9<sup>th</sup> - 10<sup>th</sup>, February, 2023
-date1: 01<sup>th</sup> Feb 2019
-date2: 10<sup>th</sup> Feb 2019
-date3: 15<sup>th</sup> Feb 2019
-date4: 17<sup>th</sup> Feb 2019
-fee1: 1500
-fee2: 1750
-fee3: 2000
+date: 9<sup>th</sup> - 10<sup>th</sup>, October, 2023
+date1: 1<sup>st</sup> August 2023
+date2: 31<sup>th</sup> August 2023
+date3: 18<sup>th</sup> September 2023
+date4: 7<sup>th</sup> September 2023
+
 phone: 044-2747426
-mobile: +91 8637635755
+mobile: 
 keywords: conference
-address: The Convenor, NCAI 2020, Department of Computer Science and Engineering, Hindustan Institute of Technology and Science, Rajiv Gandhi Salai (OMR), Padur, Chennai 603 103.
+address: University Osnabrück Botanical Garden Albrecht street 29, 49076 Osnabrueck.
 description: >-
-    The Computational Cognition Conference 2023 is hosted by the RTG "Computational Cognition" 
-    at the University Osnabrück, Germany. With our conference program...
+    Sponsers of the Computational Cognition Conference 2023... 
     
 about_hits: >-
-    Hindustan College of Engineering, started in the year 1985, was conferred the
-    "University Status" by University Grants Commission (UGC), Government of India,
-    Under Section 3 of UGC Act 1956 from the academic year 2008-09 and under the name
-    HITS (Hindustan Institute of Technology and Science).
+    some text.
     <br />
-    Today, Hindustan Institute of Technology and Science is one of the most sought
-    after engineering Institutions in Tamil Nadu, reputed for its highly qualified
-    and experienced faculty and excellent infrastructural facilities for curricular
-    and extra curricular activities, the University has maintained an enviable academic
-    excellence right from its inception. The student community comprises of students
-    from all over India and Overseas. We have students hailing from Afghanistan,
-    Bangladesh, Bhutan, China, Egypt, Ethiopia, France, Indonesia, Kenya, Korea, Liberia,
-    Libya, Mauritius, Nigeria, Oman, Rwanda, Singapore, South Africa, South Korea, Sudan,
-    U.A.E, Thailand, Vietnam, Tanzania, USA, etc.
+    more text.
     <br />
-    The university has accomplished its mission and its academic achievements are a
-    testimony to the same. More than 80% of students secure first class with distinctions
-    year after year. Over 950 students have been placed in leading companies in India and
-    abroad in the last 3 years. The students of this reputed institution are receiving
-    placement offers from leading companies in India and Abroad. The institution has
-    collaborative partnerships with leading universities in USA, Singapore, Australia,
-    etc. It has students and faculty exchange programs with leading international
-    universities. The university has also has received numerous accolades and awards over the years.
+    blah blah blah.
 about_cse: >-
-    insert text here..
+    hello world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
