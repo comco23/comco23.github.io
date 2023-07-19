@@ -1,4 +1,4 @@
-# NCAI-2020
+# ComCo 2023
 
 A site built for a conference. This site is built using [jekyll](https://jekyllrb.com) and runs on [netlify](https://netlify.com).
 
@@ -79,4 +79,5 @@ The project root or the folder where you find the `Gemfile` is called as `Projec
 `/_data/` => the data for the site, used in the html pages.
 
 ## view website
-<a href = "https://rtgcomco.github.io" > view website using this link </a>
+
+<a href = "https://rtgcomco.github.io" > View website using this link </a>
