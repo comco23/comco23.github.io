@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: /
+---
+
+<style>
+	.page_wise_banner {
+		background-image: url('assets/img/banner/bg-1.jpg');
+	}
+
+</style>
+
+<!--  SERVICE AREA START  -->
+<section id="about" class="bg-light">
+	<div class="about-bg-img d-none d-lg-block d-md-block"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-7 col-sm-12 col-md-8">
+				<div class="about-content">
+					<h5 class="subtitle">About us</h5>
+					<h3>{{ site.big_title }}</h3>
+					<p>{{ site.description }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--  SERVICE AREA END  -->
+
+{% include sections/dates.html %}
+
+{% include sections/fee.html %}

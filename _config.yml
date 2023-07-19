@@ -1,0 +1,75 @@
+title: NCAI-2020
+big_title: National Conference On Artificial Intelligence
+email: ncartificialintelligence2020@gmaiI.com
+date: 27<sup>th</sup> - 28<sup>th</sup>, February, 2020
+date1: 01<sup>th</sup> Feb 2019
+date2: 10<sup>th</sup> Feb 2019
+date3: 15<sup>th</sup> Feb 2019
+date4: 17<sup>th</sup> Feb 2019
+fee1: 1500
+fee2: 1750
+fee3: 2000
+phone: 044-2747426
+mobile: +91 8637635755
+keywords: conference
+address: The Convenor, NCAI 2020, Department of Computer Science and Engineering, Hindustan Institute of Technology and Science, Rajiv Gandhi Salai (OMR), Padur, Chennai 603 103.
+description: >-
+    National Conference on Artificial Intelligence (NCAI-2020) will be held on 27th 
+    and 28th February, 2020 Chennai, India. The Department of Computer Science and
+    Engineering ,Hindustan Institute of Technology and Science is organizing this
+    conference. The main aim of this conference is to bring together leading scientists,
+    researchers and scholars to exchange and share their experiences and research
+    results on all aspects of recent innovations in computing and data sciences.
+    The conference provides opportunities for regional and international delegates
+    to exchange and share innovative ideas and application experiences face to face,
+    to establish research relations and to find global partners for future collaboration.
+    The main objective of this conference is to encourage regional and international
+    communication, promote professional interaction and recognize the contributions of
+    individuals and organizations.
+about_hits: >-
+    Hindustan College of Engineering, started in the year 1985, was conferred the
+    "University Status" by University Grants Commission (UGC), Government of India,
+    Under Section 3 of UGC Act 1956 from the academic year 2008-09 and under the name
+    HITS (Hindustan Institute of Technology and Science).
+    <br />
+    Today, Hindustan Institute of Technology and Science is one of the most sought
+    after engineering Institutions in Tamil Nadu, reputed for its highly qualified
+    and experienced faculty and excellent infrastructural facilities for curricular
+    and extra curricular activities, the University has maintained an enviable academic
+    excellence right from its inception. The student community comprises of students
+    from all over India and Overseas. We have students hailing from Afghanistan,
+    Bangladesh, Bhutan, China, Egypt, Ethiopia, France, Indonesia, Kenya, Korea, Liberia,
+    Libya, Mauritius, Nigeria, Oman, Rwanda, Singapore, South Africa, South Korea, Sudan,
+    U.A.E, Thailand, Vietnam, Tanzania, USA, etc.
+    <br />
+    The university has accomplished its mission and its academic achievements are a
+    testimony to the same. More than 80% of students secure first class with distinctions
+    year after year. Over 950 students have been placed in leading companies in India and
+    abroad in the last 3 years. The students of this reputed institution are receiving
+    placement offers from leading companies in India and Abroad. The institution has
+    collaborative partnerships with leading universities in USA, Singapore, Australia,
+    etc. It has students and faculty exchange programs with leading international
+    universities. The university has also has received numerous accolades and awards over the years.
+about_cse: >-
+    The Department will aim to equip the students with
+    the ability and skills to analyze, design and develop
+    computer systems and their applications, with a curriculum
+    that has a balanced emphasis on theory, practical and projects.
+    The department is accredited by Nation Board of Accreditation (NBA)
+    for the period of 3 years. The department has MoUs with leading IT
+    Industries like NVIDIA, IBM and Dell-EMC. The department conducts
+    subjects with more of hands-on sessions and encourages students to
+    take up MOOC based online courses in NPTEL, IITBombayX, Coursera,
+    Udacity and edX..The school conducts various activities under the
+    banner of various professional bodies like IEEE, ACM, CSI, IET etc.
+    The Students Association has hosted several symposiums, seminars
+    and guest lecture from eminent organizations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+theme: minima
+plugins:
+    - jekyll-feed
