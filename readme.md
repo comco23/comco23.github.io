@@ -77,3 +77,6 @@ The project root or the folder where you find the `Gemfile` is called as `Projec
 `/_includes/` => the common portions of the site that are used in multiple html pages.
 
 `/_data/` => the data for the site, used in the html pages.
+
+## view website
+<a href = "https://rtgcomco.github.io" > view website using this link </a>
