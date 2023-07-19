@@ -1,7 +1,7 @@
 title: Comco 2023
 big_title: Computational Conference 2023
-email: ncartificialintelligence2020@gmaiI.com
-date: 27<sup>th</sup> - 28<sup>th</sup>, February, 2020
+email: comco@uni-osnabrueck.de
+date: 9<sup>th</sup> - 10<sup>th</sup>, February, 2023
 date1: 01<sup>th</sup> Feb 2019
 date2: 10<sup>th</sup> Feb 2019
 date3: 15<sup>th</sup> Feb 2019
@@ -14,18 +14,9 @@ mobile: +91 8637635755
 keywords: conference
 address: The Convenor, NCAI 2020, Department of Computer Science and Engineering, Hindustan Institute of Technology and Science, Rajiv Gandhi Salai (OMR), Padur, Chennai 603 103.
 description: >-
-    National Conference on Artificial Intelligence (NCAI-2020) will be held on 27th 
-    and 28th February, 2020 Chennai, India. The Department of Computer Science and
-    Engineering ,Hindustan Institute of Technology and Science is organizing this
-    conference. The main aim of this conference is to bring together leading scientists,
-    researchers and scholars to exchange and share their experiences and research
-    results on all aspects of recent innovations in computing and data sciences.
-    The conference provides opportunities for regional and international delegates
-    to exchange and share innovative ideas and application experiences face to face,
-    to establish research relations and to find global partners for future collaboration.
-    The main objective of this conference is to encourage regional and international
-    communication, promote professional interaction and recognize the contributions of
-    individuals and organizations.
+    The Computational Cognition Conference 2023 is hosted by the RTG "Computational Cognition" 
+    at the University Osnabrück, Germany. With our conference program...
+    
 about_hits: >-
     Hindustan College of Engineering, started in the year 1985, was conferred the
     "University Status" by University Grants Commission (UGC), Government of India,
@@ -51,19 +42,7 @@ about_hits: >-
     etc. It has students and faculty exchange programs with leading international
     universities. The university has also has received numerous accolades and awards over the years.
 about_cse: >-
-    The Department will aim to equip the students with
-    the ability and skills to analyze, design and develop
-    computer systems and their applications, with a curriculum
-    that has a balanced emphasis on theory, practical and projects.
-    The department is accredited by Nation Board of Accreditation (NBA)
-    for the period of 3 years. The department has MoUs with leading IT
-    Industries like NVIDIA, IBM and Dell-EMC. The department conducts
-    subjects with more of hands-on sessions and encourages students to
-    take up MOOC based online courses in NPTEL, IITBombayX, Coursera,
-    Udacity and edX..The school conducts various activities under the
-    banner of various professional bodies like IEEE, ACM, CSI, IET etc.
-    The Students Association has hosted several symposiums, seminars
-    and guest lecture from eminent organizations.
+    insert text here..
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
