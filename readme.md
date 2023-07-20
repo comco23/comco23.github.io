@@ -1,6 +1,6 @@
 # ComCo 2023
 
-A site built for a conference. This site is built using [jekyll](https://jekyllrb.com) and runs on [netlify](https://netlify.com).
+A site built for a conference. This site is built using [jekyll](https://jekyllrb.com).
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Would recommend the following to be installed and used for proper code maintaina
 ### Development
 
 1. Clone the site first. \
-   `git clone https://github.com/ajaidanial/NCAI_2020.git`
+   `git clone https://github.com/rtgcomco/rtgcomco.github.io.git`
 2. Make sure to create a new branch. \
    `git checkout -b <branch_name>`
 3. Make all your desired changes.
