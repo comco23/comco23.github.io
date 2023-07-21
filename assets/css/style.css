@@ -237,7 +237,7 @@ h5.subtitle {
 .btn-hero,
 .btn-white:hover {
 	color: #fff !important;
-	background: #635CDB;
+	background: #edb22a; /* changed the clickable button color */
 }
 
 .btn-hero:focus {
@@ -597,7 +597,7 @@ h5.subtitle {
 
 .banner-content .subtitle {
 	color: #fff;
-	background: #635CDB;
+	background: #edb22a; /* which exact RGB is osnabrueck's?! */
 	display: inline-block;
 	padding: 3px 8px;
 	margin-bottom: 20px;
@@ -1035,7 +1035,7 @@ h5.subtitle {
 	font-weight: 700;
 	line-height: 70px;
 	margin: 10px 0px;
-	color: #635CDB;
+	color: #edb22a; /* this is the dates & deadlines. i chagned to yellow */
 }
 
 .counter-stat i {
