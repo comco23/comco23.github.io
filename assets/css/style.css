@@ -1242,7 +1242,7 @@ input[type=email] {
 }
 
 .footer-text p.mail {
-	color: #635CDB;
+	color: #999; /* maybe change to some catchy colors that match yellow? */
 }
 
 .bg-main {
