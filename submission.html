@@ -14,24 +14,23 @@ permalink: /submission
 <!--  SERVICE AREA START  -->
 <section class="section-padding">
 	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
-				<h3 class="mb-3">Important Dates</h3>
-				<p class="mb-4">
-					Registration opens beginning of August, 2023  </br>
-					Registration deadline - 31 August, 2023
-				</p>
-				<p class="mb-4">
-				</p>
 
 		<div class="row align-items-center">
 			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Important Dates</h3>
+				<ul class="about-list2 my-4">
+					{% for data in site.data.importantdates %}
+					<li class="mb-2">
+						<i class="icofont icofont-check-circled"></i>
+						{{ data }}
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
 				<h3 class="mb-3">Guidelines for Submission</h3>
-				<p class="mb-4">
-					We welcome research work related to computational cognition in the following formats:
-				</p>
-				<p class="mb-4">
-				</p>
 
 				<ul class="about-list2 my-4">
 					{% for data in site.data.guidelines %}
@@ -43,18 +42,17 @@ permalink: /submission
 				</ul>
 			</div>
 		</div>
-
 		<div class="row align-items-center">
 			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
 				<h3 class="mb-3">Registration & Submit Your Work </h3>
 				<p class="mb-4">
-					Link to the registration & submission is currently being setup
+					Link to the registration & submission is currently being setup via:
 					<a
-						href="https://easychair.org/">(https://easychair.org/)</a>
+						href="https://easychair.org/">https://easychair.org/</a>
+				</br>Thank you for your patience.
 				</p>
 			</div>
 		</div>
-
 	</div>
 </section>
 <!--  ABOUT AREA END  -->

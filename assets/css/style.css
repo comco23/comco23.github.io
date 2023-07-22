@@ -90,7 +90,7 @@ img {
 }
 
 a:hover {
-	color: #635CDB;
+	color: #7b0000; /* for "the Institute for Cognitive Sciecne" at the footer */
 	text-decoration: none;
 }
 
@@ -1242,7 +1242,7 @@ input[type=email] {
 }
 
 .footer-text p.mail {
-	color: #999; /* maybe change to some catchy colors that match yellow? */
+	color: #7b0000; /* maybe change to some catchy colors that match yellow? like 7b0000*/
 }
 
 .bg-main {
@@ -1290,7 +1290,7 @@ ABOUT PAGE
 
 .about-list2 li i {
 	margin-right: 10px;
-	color: #635CDB;
+	color: #7b0000; /* changed the circle list color to osnabrueck red (not the exact RGB though) */
 }
 
 .icon-3x {
