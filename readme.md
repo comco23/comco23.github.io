@@ -16,9 +16,9 @@ A site built for a conference. This site is built using [jekyll](https://jekyllr
 ### Runing The Site Locally
 
 1. Clone the site first. \
-   `git clone https://github.com/ajaidanial/NCAI_2020.git`
+   `git clone https://github.com/rtgcomco/rtgcomco.github.io.git`
 2. Change to the project root. \
-   `cd NCAI_2020`
+   `cd compco`
 3. Install the necessary gems required by the site. \
    `bundle install`
 4. Run the local development server. \
