@@ -1,0 +1,42 @@
+[{
+	"name": "By Plane",
+	"items": [
+		"Münster-Osnabrück: 35km, aprox. 0.5h",
+		"Bremen Airport: 120km/approx. 1.5h",
+		"Dortmund Airport: 110km, approx. 2h ",
+		"Hannover Airport: 140km/approx. 2h ",
+		"Düsseldorf Airport: 175km/approx. 2h",
+		"Hamburg Airport: 254km/approx. 2.5h",
+		"Frankfurt Airport: 335km/approx. 3.5-4.5h"
+	]
+},
+	{
+		"name": "By Train & Bus",
+		"items": [
+
+			"The Deutsche Bahn",
+			"Bus lines 21 & 22: See the route planner App. Bus lines 21 and 22 are direct lines between Osnabrück's central station and our building, bus stop Hochschulen Westerberg. At least every 20 minutes, 15-18 minutes travelling time"
+		]
+	},
+	{
+		"name": "By Car",
+		"items": [
+			"A1: running from the Ruhrgebiet to Hamburg",
+			"A30: running from Amsterdam to Berlin",
+			"A33: running from Bielefeld to Kassel"
+		]
+	},
+	
+	{
+		"name": "Accommodation",
+		"items": [
+			"Steigenberger Hotel Remarque: 0.8km from the event venue",
+			"Hotel Klute: 1.6km",
+			"Hotel am Mikolaiort: 0.9km from the event venue",
+			"Dom-Hotel Osnabrück: 1.1km from the event venue",
+			"Hotel Adelhoff: 1.6km from the event venue",
+			"B&B Hotel Osnabrück: 1.7km from the event venue",
+			"Hotel Walhalla: 2.0km"
+		]
+	}
+]
