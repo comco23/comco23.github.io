@@ -11,12 +11,16 @@
 	]
 },
 	{
-		"name": "By Train & Bus",
-		"items": [
-
-			"The Deutsche Bahn",
-			"Bus lines 21 & 22: See the route planner App. Bus lines 21 and 22 are direct lines between Osnabrück's central station and our building, bus stop Hochschulen Westerberg. At least every 20 minutes, 15-18 minutes travelling time"
-		]
+		"name": "Accommodation",
+                    "items": [
+                              "Steigenberger Hotel Remarque: 0.8km from the event venue",
+                              "Hotel Klute: 1.6km",
+                              "Hotel am Mikolaiort: 0.9km from the event venue",
+                              "Dom-Hotel Osnabrück: 1.1km from the event venue",
+                              "Hotel Adelhoff: 1.6km from the event venue",
+                              "B&B Hotel Osnabrück: 1.7km from the event venue",
+                              "Hotel Walhalla: 2.0km"
+                    ]
 	},
 	{
 		"name": "By Car",
@@ -28,15 +32,11 @@
 	},
 	
 	{
-		"name": "Accommodation",
+		"name": "By Train & Bus",
 		"items": [
-			"Steigenberger Hotel Remarque: 0.8km from the event venue",
-			"Hotel Klute: 1.6km",
-			"Hotel am Mikolaiort: 0.9km from the event venue",
-			"Dom-Hotel Osnabrück: 1.1km from the event venue",
-			"Hotel Adelhoff: 1.6km from the event venue",
-			"B&B Hotel Osnabrück: 1.7km from the event venue",
-			"Hotel Walhalla: 2.0km"
+
+			"The Deutsche Bahn",
+			"Bus lines 21 & 22: See the route planner App. Bus lines 21 and 22 are direct lines between Osnabrück's central station and our building, bus stop Hochschulen Westerberg. At least every 20 minutes, 15-18 minutes travelling time"
 		]
 	}
 ]
