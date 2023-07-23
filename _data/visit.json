@@ -2,24 +2,24 @@
 	"name": "By Plane",
 	"items": [
 		"Münster-Osnabrück: 35km, aprox. 0.5h",
-		"Bremen Airport: 120km/approx. 1.5h",
+		"Bremen Airport: 120km, approx. 1.5h",
 		"Dortmund Airport: 110km, approx. 2h ",
-		"Hannover Airport: 140km/approx. 2h ",
-		"Düsseldorf Airport: 175km/approx. 2h",
-		"Hamburg Airport: 254km/approx. 2.5h",
-		"Frankfurt Airport: 335km/approx. 3.5-4.5h"
+		"Hannover Airport: 140km, approx. 2h ",
+		"Düsseldorf Airport: 175km, approx. 2h",
+		"Hamburg Airport: 254km, approx. 2.5h",
+		"Frankfurt Airport: 335km, approx. 3.5-4.5h"
 	]
 },
 	{
 		"name": "Accommodation",
                     "items": [
-                              "Steigenberger Hotel Remarque: 0.8km from the event venue",
-                              "Hotel Klute: 1.6km",
-                              "Hotel am Mikolaiort: 0.9km from the event venue",
-                              "Dom-Hotel Osnabrück: 1.1km from the event venue",
-                              "Hotel Adelhoff: 1.6km from the event venue",
-                              "B&B Hotel Osnabrück: 1.7km from the event venue",
-                              "Hotel Walhalla: 2.0km"
+                              "<a href='http://steigenberger-remarque.lower-saxony-hotels.com/de/'>Steigenberger Hotel Remarque</a>: 0.8km from the event venue",
+			"<a href='https://hotel-klute.de/'>Hotel Klute</a>: 1.6km from the event venue",
+			"<a href='https://www.hotel-nikolaiort.de/'>Hotel am Mikolaiort</a>: 0.9km from the event venue",
+			"<a href='https://www.dom-hotel-osnabrueck.de/de/'>Dom-Hotel Osnabrück</a>: 1.1km from the event venue",
+			"<a href='https://adelhoff.com/'>Hotel Adelhoff</a>: 1.6km from the event venue",
+			"<a href='https://www.hotel-bb.com/de/hotel/osnabrueck'>B&B Hotel Osnabrück</a>: 1.7km from the event venue",
+			"<a href='https://www.guestreservations.com/walhalla-hotel/booking?msclkid=121d64ad46001d9c8340001040cd7416'>Hotel Walhalla</a>: 2.0km from the event venue"
                     ]
 	},
 	{
@@ -34,9 +34,8 @@
 	{
 		"name": "By Train & Bus",
 		"items": [
-
-			"The Deutsche Bahn",
-			"Bus lines 21 & 22: See the route planner App. Bus lines 21 and 22 are direct lines between Osnabrück's central station and our building, bus stop Hochschulen Westerberg. At least every 20 minutes, 15-18 minutes travelling time"
+			"<a href = 'https://www.bahn.de/'>Homepage of the Deutsche Bahn</a>",
+			"Bus lines 21 & 22: <a href = 'https://www.vos.info/fahrplaner.html'> see the route planner App</a>. Bus lines 21 and 22 are direct lines between Osnabrück's central station and our building (bus stop: Hochschulen Westerberg). At least every 20 minutes, 15-18 minutes travelling time."
 		]
 	}
 ]
