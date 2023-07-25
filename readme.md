@@ -38,7 +38,7 @@ Would recommend the following to be installed and used for proper code maintaina
 ### Development
 
 1. Clone the site first. \
-   `git clone https://github.com/rtgcomco/rtgcomco.github.io.git`
+   `git clone https://github.com/comco23/comco23.github.io.git`
 2. Make sure to create a new branch. \
    `git checkout -b <branch_name>`
 3. Make all your desired changes.
@@ -78,6 +78,6 @@ The project root or the folder where you find the `Gemfile` is called as `Projec
 
 `/_data/` => the data for the site, used in the html pages.
 
-## view website
+## View Website
 
 <a href = "https://comco23.github.io" > View website using this link </a>
