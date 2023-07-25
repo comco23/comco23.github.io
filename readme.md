@@ -16,7 +16,7 @@ A site built for a conference. This site is built using [jekyll](https://jekyllr
 ### Runing The Site Locally
 
 1. Clone the site first. \
-   `git clone https://github.com/rtgcomco/rtgcomco.github.io.git`
+   `git clone https://github.com/comco23/comco23.github.io.git`
 2. Change to the project root. \
    `cd compco`
 3. Install the necessary gems required by the site. \
@@ -80,4 +80,4 @@ The project root or the folder where you find the `Gemfile` is called as `Projec
 
 ## view website
 
-<a href = "https://rtgcomco.github.io" > View website using this link </a>
+<a href = "https://comco23.github.io" > View website using this link </a>
