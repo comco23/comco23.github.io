@@ -1,6 +1,6 @@
 # ComCo 2023
 
-A site built for a conference. This site is built using [jekyll](https://jekyllrb.com).
+This site is built using [jekyll](https://jekyllrb.com).
 
 ## Getting Started
 
