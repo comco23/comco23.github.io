@@ -1545,3 +1545,18 @@ BLOG SINGLE
 	height: 100%;
 	width: 100%;
 }
+
+
+.logo-img {
+	height: 60px; /* Adjust the height to your desired size */
+	margin-right: 0px; /* Add spacing between logo and text */
+	vertical-align: middle; /* Align logo vertically with text */
+      }
+      
+      .logo-text {
+	display: inline-block; /* Make the text display inline */
+	margin: 0; /* Remove any default margins */
+	vertical-align: middle; /* Align text vertically with logo */
+	font-size: 24px; /* Adjust the font size as needed */
+      }
+      
