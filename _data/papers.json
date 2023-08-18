@@ -1,59 +1,34 @@
 [{
-		"name": "Artificial Intelligence Tools and Application",
+		"name": "Computational Neuroscience",
 		"people": [
-			"Neural Networks",
-			"Fuzzy Systems",
-			"Natural Language Processing",
-			"Social Implication of Artificial Intelligence"
+			"Theoretical Systems Neuroscience",
+			"Computational Basis of Natural and Artificial Intelligence",
+			"Artificial Neuronal Networks"
 		]
 	},
 	{
-		"name": "Multimedia and Cognitive Informatics",
+		"name": "Cognitive modeling",
 		"people": [
-			"Image Processing",
-			"Computer Graphics",
-			"Drones Design",
-			"Robotics and Vision",
-			"Autonomous Computing",
-			"Human Computer Collaboration"
+			"Pragmatics and Psycholinguistics",
+			"Language Emergence",
+			"Multi-agent Reinforcement Learning",
+			"Agent-Based Modeling"
 		]
 	},
 	{
-		"name": "Pattern Recognition and Machine learning",
+		"name": "Perception, Representation, and Behavior in Complex Environments",
 		"people": [
-			"Human Behaviour Recognition",
-			"Feature Selection",
-			"Semi Supervised Learning",
-			"Fuzzy System",
-			"Speech Recognition"
+			"Spatial Navigation and Interaction",
+			"Multi-Sensory Integration",
+			"Eye Tracking and Virtual Reality",
+			"Human-Robot Interaction/Evolutionary Robotics"
 		]
 	},
 	{
-		"name": "Ethics in Information System",
+		"name": "Neural Representation and Learning",
 		"people": [
-			"Social Network Analysis",
-			"Information Security",
-			"Sequential Pattern Mining"
-		]
-	},
-	{
-		"name": "Data Analytics and Business Intelligence",
-		"people": [
-			"Classification",
-			"Clustering",
-			"Regression",
-			"Feature Selection",
-			"Intelligent System"
-		]
-	},
-	{
-		"name": "Smart System Development",
-		"people": [
-			"Internet of Things",
-			"Android Applications",
-			"Mobile Applications",
-			"Web Designing",
-			"Intelligent Automation"
+			"Learning and Decision Making",
+			"Deep Learning and its Applications in Neuroscience and Psychology"
 		]
 	}
-]
+	]

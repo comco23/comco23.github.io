@@ -415,15 +415,17 @@ h5.subtitle {
 	color: #000 !important;
 }
 
-.navbar-expand-lg.trans-navigation .navbar-nav .nav-link,
-.navbar-expand-lg.site-navigation .navbar-nav .nav-link {
-	padding: 0px 24px;
-}
+.navbar-expand-lg.trans-navigation .navbar-nav .nav-link {
+	padding: 0px 12px; /* Adjust the padding to control spacing */
+	font-size: 15px; /* Adjust the font size for better readability */
+	color: #fff;
+      }
 
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link:last-child,
 .navbar-expand-lg.site-navigation .navbar-nav .nav-link:last-child {
 	padding-right: 0px;
 }
+
 
 .site-navigation,
 .trans-navigation {
@@ -1559,4 +1561,24 @@ BLOG SINGLE
 	vertical-align: middle; /* Align text vertically with logo */
 	font-size: 24px; /* Adjust the font size as needed */
       }
+
+
+      .logo-wrapper {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+      }
+      
+      .b-logo.colored {
+	display: none;
+      }
+      
+      .logo-wrapper:hover .colored {
+	display: block;
+      }
+      
+      .logo-wrapper:hover .grayscale {
+	display: none;
+      }
+      
       
