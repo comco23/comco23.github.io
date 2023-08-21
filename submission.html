@@ -30,10 +30,26 @@ permalink: /submission
 				</ul>
 			</div>
 		</div>
+		
 		<div class="row align-items-center">
 			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
-				<h3 class="mb-3">Guidelines for Submission</h3>
-				<p> It is possible to contribute to the conference via a poster or a short talk. Abstracts can be submitted during registration. </p>
+				<h3 class="mb-3">Registration Policies</h3>
+
+				<ul class="about-list2 my-4">
+					{% for data in site.data.instructions %}
+					<li class="mb-2">
+						<i class="icofont icofont-check-circled"></i>
+						{{ data }}
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Submission Guidelines</h3>
+				<p> It is possible to contribute to the conference via a poster and/or a short talk. Abstracts can be submitted during registration. </p>
 
 
 				<ul class="about-list2 my-4">
@@ -50,9 +66,23 @@ permalink: /submission
 			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
 				<h3 class="mb-3">Registration & Submit Your Work </h3>
 				<p class="mb-4">
-					Link to the conference registration & submission:
+					Please use the following link for conference registration & submission:
 					<a
 						href="https://easychair.org/my/conference?conf=comco2023">https://easychair.org/my/conference?conf=comco2023</a>
+				</p>
+			</div>
+		</div>
+
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Method of Payment </h3>
+				<h6>Please wire the registration fee to the following bank account:</h6> </br>
+				<p> IBAN: DE82 2505 0000 0101 4320 03 </br>
+				SWIFT/BIC: NOLADE2H </br>
+				Account holder: Universität Osnabrück </br>
+				Bank: Norddeutsche Landesbank </br>
+				Reference number: 60083001230001 </br>
+				Payment details: please always indicate the reference number and your name like this: 60083001230001, surname, first name
 				</p>
 			</div>
 		</div>
@@ -61,7 +91,7 @@ permalink: /submission
 			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
 				<h3 class="mb-3"> Code of Conduct </h3>
 				<p class="mb-4">
-					Here you can find the <a href="/conduct.html">code of conduct</a>.
+					Here you may find the <a href="/conduct.html">code of conduct</a>.
 				</p>
 			</div>
 		</div>
