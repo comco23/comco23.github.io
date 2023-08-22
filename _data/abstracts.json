@@ -24,11 +24,25 @@
 			"Human-Robot Interaction/Evolutionary Robotics"
 		]
 	},
+
+	{
+		"name": "Computational Cognitive Science",
+		"people": [
+			"Responsible and Ethical AI",
+			"Computational Models of Human Behavior",
+			"Statistical Lingquistics",
+			"Information Theory",
+			"Machine Learning"
+		]
+		
+	},
+	
 	{
 		"name": "Neural Representation and Learning",
 		"people": [
 			"Learning and Decision Making",
 			"Deep Learning and its Applications in Neuroscience and Psychology"
 		]
+		
 	}
 	]
