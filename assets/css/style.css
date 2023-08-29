@@ -1587,20 +1587,21 @@ PROGRAM
 
 /* Styling for the conference program */
 .program-container {
-	margin-top: 30px;
+	margin-top: 20px;
 	max-width: 800px;
 }
 
 .program-grid {
-	width: 100%;
-	margin-left: 20px; /* Added 'px' unit */
+	width: 90%;
+	margin-bottom: 20px;
+	margin-left: 30px; /* Added 'px' unit */
 	margin-right: 20px; /* Added 'px' unit */
 	border: 2px solid #ddd;
 }
 
 .program-grid th,
 .program-grid td {
-	padding: 5px;
+	padding: 3px;
 	border: 1px solid #ddd;
 }
 
@@ -1612,24 +1613,9 @@ PROGRAM
 	background-color: #f2f2f2; /* Highlight for even rows */
 }
 
-
-/* Hover effect for rows and columns */
-.program-grid tbody tr:hover {
-	background-color: #e0e0e0;
-}
-
-.program-grid th:hover {
-	background-color: #d0d0d0;
-}
-
-/* Responsive design for smaller screens */
-@media screen and (max-width: 600px) {
-	.program-grid {
-		font-size: 14px;
-	}
-
-	.program-grid th,
-	.program-grid td {
-		padding: 8px;
-	}
-}
+/* Styling for the program text */
+.program-text {
+	margin-top: 5px;
+	margin-left: 30px; /* Match the left margin of the program grid */
+	text-align: left;
+      }
