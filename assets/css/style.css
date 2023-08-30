@@ -1593,8 +1593,8 @@ PROGRAM
 
 .program-grid {
 	width: 90%;
-	margin-bottom: 20px;
-	margin-left: 30px; /* Added 'px' unit */
+	margin-bottom: 30px;
+	margin-left: 70px; /* Added 'px' unit */
 	margin-right: 20px; /* Added 'px' unit */
 	border: 2px solid #ddd;
 }
@@ -1616,6 +1616,6 @@ PROGRAM
 /* Styling for the program text */
 .program-text {
 	margin-top: 5px;
-	margin-left: 30px; /* Match the left margin of the program grid */
+	margin-left: 70px; /* Match the left margin of the program grid */
 	text-align: left;
       }
