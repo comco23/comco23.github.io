@@ -4,3 +4,4 @@ description: this is a nbp lab wiki page
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+permalink: pretty
