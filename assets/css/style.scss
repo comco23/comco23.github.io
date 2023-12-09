@@ -1,4 +1,39 @@
 ---
 ---
-
 @import "jekyll-theme-minimal";
+
+/* Add this to your CSS file */
+#science-forum {
+  margin-top: 20px;
+}
+
+#science-forum h2 {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+#science-forum p {
+  margin-bottom: 20px;
+}
+
+/* Example styles for individual post pages */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.page-content .post-header {
+  margin-bottom: 20px; /* Adjust as needed for spacing between post title and content on individual post pages */
+}
+
+.page-content .post-content {
+  margin-bottom: 40px; /* Adjust as needed for increased spacing between post content and other elements on individual post pages */
+  line-height: 1.6;
+}
+
+.page-content p {
+  margin-bottom: 15px; /* Adjust as needed for spacing between paragraphs on individual post pages */
+}

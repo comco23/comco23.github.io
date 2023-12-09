@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Science Forum
 ---
 
-# Science Forum
+## Science Forum
 
 Welcome to our Science Forum! Here are some recent blog posts:
 
@@ -11,4 +10,8 @@ Welcome to our Science Forum! Here are some recent blog posts:
 ## [{{ post.title }}]({{ post.url }})
 
 {{ post.excerpt }}
+
 {% endfor %}
+
+
+
