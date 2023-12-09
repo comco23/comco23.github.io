@@ -5,3 +5,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 permalink: pretty
+paginate: 5  # Adjust the number of posts per page as needed
