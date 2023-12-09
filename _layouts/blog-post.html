@@ -1,0 +1,27 @@
+<!-- _layouts/blog-post.html -->
+
+---
+layout: default
+---
+
+<div class="container">
+  <div class="content">
+    <div class="blog-post">
+      <h2>{{ page.title }}</h2>
+      <p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
+
+      {{ content }}
+
+      <p class="back-to-blog"><a href="{{ "/science-forum/" | relative_url }}">Science Forum</a></p>
+    </div>
+  </div>
+
+  <div class="sidebar">
+    <h3>Recent Posts</h3>
+    <ul>
+      {% for post in site.posts limit:5 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
