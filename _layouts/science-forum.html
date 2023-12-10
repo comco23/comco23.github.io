@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div id="science-forum" class="page-content">
+  <h1>Science Forum</h1>
+  <p>Welcome to our Science Forum! Here are some recent blog posts:</p>
+
+  {% for post in site.posts %}
+    <article class="post">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-meta">
+        <span class="post-author">{{ post.author | default: site.author }}</span>
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ post.date | date: "%b %-d, %Y" }}
+        </time>
+      </p>
+    </article>
+  {% endfor %}
+</div>

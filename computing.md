@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## computing and data/code
+## Computing, Code and Data Sharing
 
 
 hellow world
