@@ -4,5 +4,6 @@ description: this is a nbp lab wiki page
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
+disqus:
+  shortname: https-nbplabwiki-github-io
 permalink: pretty
