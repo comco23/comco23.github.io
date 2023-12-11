@@ -20,12 +20,11 @@ get started working in the nbp lab.
 | Monday       | 01.02.2024        | free            |
 | Thursday     | 08.02.2024        | Tracy Sanchez   |
 
-
 ## contribute to the wiki page
 
 1. **get a github account:**
 - ask ann to share github account details & add you as a collaborator to the [NBP Lab Wiki GitHub repository](https://github.com/nbplabwiki/nbplabwiki.github.io).
-   - This allows you to push changes directly to the repository.
+- This allows you to push changes directly to the repository.
 
 2. **set up your local environment:**
 - Method 1 (Command Line):
