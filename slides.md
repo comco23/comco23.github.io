@@ -3,6 +3,6 @@ layout: default
 title: "Presentation Slides"
 ---
 
-# Your content here
+# tea time slides
 
-[View Presentation Slides](/pdf_viewer.html)
+[Prerocess eye tracking data](/slides/example.pdf)
