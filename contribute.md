@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## how to contribute to the wiki page
-
+##  (need to provide screen shots)
 1. **get a github account:**
 - ask ann to share github account details & add you as a collaborator to the [NBP Lab Wiki GitHub repository](https://github.com/nbplabwiki/nbplabwiki.github.io).
 - This allows you to push changes directly to the repository.
