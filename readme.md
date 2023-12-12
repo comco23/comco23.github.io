@@ -25,7 +25,6 @@ This site is built using [jekyll](https://jekyllrb.com).
    `bundle exec jekyll serve`
 5. Visit the development server address in your favourite browser. By default it is `localhost:4000`.
 
-
 ## Project Structure
 
 The site follows the normal site structure as mentioned in the jekyll documentation [here](https://jekyllrb.com/docs/structure/).

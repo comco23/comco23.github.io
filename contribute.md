@@ -4,7 +4,10 @@ layout: default
 
 ## How to contribute to the wiki page
 
-### 1. **Get a github account:**
+### Getting started
+- This tutoral assumes you have a 1) github account and 2)  xxx, xxx, xxx installed
+
+### 1. **Github collaboration:**
 - get added as a collaborator to the [nbp lab wiki github repository](https://github.com/nbplabwiki/nbplabwiki.github.io).
 
 ### 2. **Set up your local environment:**
@@ -23,7 +26,7 @@ layout: default
 
 ### 4.**Open repo on using any code editor (e.g. VS Code)** 
 
-### 5.**Familiarzed with the basic folder strucutre and make changes**
+### 5.**Get familiarize with the basic folder strucutre and make changes**
 
 - here are the most used folders: xxx
 
