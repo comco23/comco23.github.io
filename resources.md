@@ -21,6 +21,13 @@ Analyzing Neural Time Series Data: Theory and Practice (Mike X Cohen)
 [Ten simple rules for the computational modeling of behavioral data]
 
 
+## how to survive and thrive in academia
+
+
+## list of funding and scholarships
+
+
+## cool conferences
 
 
 
