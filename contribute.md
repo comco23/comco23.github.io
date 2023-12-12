@@ -59,8 +59,13 @@ This tutoral assumes you have the following dependencies installed:
    bundle exec jekyll serve
    ```
 - copy and paste the server address to your local browser to preview
-- most relevant git commands (for publishing your changes):
-   
+
+### 7. **Learn how to write in Markdown:**
+
+Some examples here: [Markdown examples](/markdown-examples)
+
+### 8. **Publish your changes: **
+- most relevant git commands:   
    ```bash
    # Check the status of your changes
    git status
