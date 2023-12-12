@@ -31,29 +31,22 @@ The site follows the normal site structure as mentioned in the jekyll documentat
 
 ### File and Folder Descriptions
 
-The project root or the folder where you find the `Gemfile` is called as `Project Root` or `/`.
-
-`/readme.md` => contains the project documentation.
-
-`/Gemfile` => contains the project dependencies.
-
-`/*.html` => the basic html pages.
-
-`/beautifyrc.json` => contains the config for `Beautify` code formatter.
-
-`/.gitignore` => contains files to be ignored by `git`.
-
-`/.editorconfig` => contains config for `Editorconfig` text editor configurations.
-
-`/_config.yml` => site global data and config for jekyll.
-
-`/assets/` => contains css, js and other assets for the site.
-
-`/_layouts/` => the layouts for the site, that are used in the html pages.
-
-`/_includes/` => the common portions of the site that are used in multiple html pages.
-
-`/_data/` => the data for the site, used in the html pages.
+* The project root or the folder where you find the `Gemfile` is called as `Project Root` or `/`.
+* `/_includes/`: the common portions of the site that are used in multiple html pages.
+* `/_layouts/`: the layouts for the site, that are used in the html pages.
+* `/_posts/`:
+* `/_sass/`:
+* `/assets/`: contains css, js and other assets for the site.
+* `/script/`:
+* `/slides/`:
+* `/tags/`:
+* `/_config.yml`: site global data and config for jekyll.
+* `/.editorconfig`: contains config for `Editorconfig` text editor configurations.
+* `/.gitignore`: contains files to be ignored by `git`.
+* `/Gemfile`: contains the project dependencies.
+* `/index.md`: this website's homepage
+* `/jekyll-theme-minimal.gemspec`:
+* `/readme.md`: contains the project documentation.
 
 ## View Website
 
