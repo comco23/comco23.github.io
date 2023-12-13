@@ -31,22 +31,22 @@ The site follows the normal site structure as mentioned in the jekyll documentat
 
 ### File and Folder Descriptions
 
-* The project root or the folder where you find the `Gemfile` is called as `Project Root` or `/`.
-* `/_includes/`: the common portions of the site that are used in multiple html pages.
-* `/_layouts/`: the layouts for the site, that are used in the html pages.
-* `/_posts/`:
-* `/_sass/`:
-* `/assets/`: contains css, js and other assets for the site.
-* `/script/`:
-* `/slides/`:
-* `/tags/`:
-* `/_config.yml`: site global data and config for jekyll.
-* `/.editorconfig`: contains config for `Editorconfig` text editor configurations.
-* `/.gitignore`: contains files to be ignored by `git`.
-* `/Gemfile`: contains the project dependencies.
-* `/index.md`: this website's homepage
-* `/jekyll-theme-minimal.gemspec`:
-* `/readme.md`: contains the project documentation.
+* Project Root (`/`): The main directory where you find the `Gemfile` and essential project files.
+* `/_includes/`: Contains common portions of the site used in multiple HTML pages.
+* `/_layouts/`: Holds layouts for the site, which are used in HTML pages.
+* **`/_posts/`: Stores individual blog posts written in Markdown.**
+* `/_sass/`: Includes Sass stylesheets, providing a modular and organized way to manage styles.
+* `/assets/`: Contains CSS, JS, and other assets for the site, such as images or fonts.
+* `/script/`: Holds scripts or executable files associated with the project.
+* **`/slides/`: A folder that stores presentation slides or related materials.**
+* `/tags/`: Contains files or data related to categorizing content based on tags.
+* `/_config.yml`: Stores site global data and configuration for Jekyll.
+* `/.editorconfig`: Contains configurations for text editors using Editorconfig.
+* `/.gitignore`: Lists files to be ignored by Git during version control.
+* `/Gemfile`: Specifies project dependencies using Bundler.
+* **`/index.md`: The homepage of this website, written in Markdown.**
+* `/jekyll-theme-minimal.gemspec`: A Gemspec file specifying information about the Jekyll theme as a Ruby gem.
+* `/readme.md`: Contains project documentation, providing an overview of the project and its structure.
 
 ## View Website
 
