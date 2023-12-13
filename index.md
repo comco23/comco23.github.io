@@ -19,7 +19,7 @@ are you an intern, HiWi, BSc, MSc, PhD, or Postdoc in the Nbp? here are some use
 * [how to give good talks](slides/7-GivingGoodTalks.pdf)
 * [guidelines for paper revisions](slides/8-GuidelinesForRevisions.pdf)
 
-get added to the Telegram groups, email lists: xxx, xxx
+get added to the communication channels (Telegram groups, email lists): xxx, xxx
 
 ## tea time calendar winter semester 2023-2024
 
@@ -33,7 +33,7 @@ get added to the Telegram groups, email lists: xxx, xxx
 
 ## data analysis and management
 
-i probably should know something about how the university machiens work but i don't know anything
+useful information about university lab computers and how to work with them
 
 ## contribute to the wiki page
 
