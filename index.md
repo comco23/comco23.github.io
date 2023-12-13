@@ -19,6 +19,8 @@ are you an intern, HiWi, BSc, MSc, PhD, or Postdoc in the Nbp? here are some use
 * [how to give good talks](slides/7-GivingGoodTalks.pdf)
 * [guidelines for paper revisions](slides/8-GuidelinesForRevisions.pdf)
 
+get added to the Telegram groups, email lists: xxx, xxx
+
 ## tea time calendar winter semester 2023-2024
 
 | day          | date              | presenter       |

@@ -6,7 +6,7 @@ layout: default
 
 ## Getting started
 
-This tutoral assumes you have the following dependencies installed:
+This tutoral assumes you have the following dependencies installed (only have to isntall them once):
 
 * [Github account](https://github.com/)
 * [Git](https://git-scm.com/): a distributed version control system used for tracking changes in source code during software development
@@ -70,7 +70,7 @@ For more detail information about the default Jekyll folder structure, please re
 ### 7. **Create a post on the wiki page**
 
 - Please adhere to existing structure on naming a file in the `_posts` folder
-- Some examples here on how to write in markdown: [Markdown examples](/markdown-examples)
+- Some examples here on how to write in markdown: [Markdown examples from the Minimal theme](/markdown-examples) and [Markdown example from the Jekyll website](https://aksakalli.github.io/jekyll-doc-theme/docs/cheatsheet/)
 
 ### 8. **Publish your changes**
 
@@ -79,13 +79,10 @@ For more detail information about the default Jekyll folder structure, please re
    ```bash
    # Check the status of your changes
    git status
-
    # Add changes to the staging area
    git add .
-
    # Commit changes
    git commit -m "Your commit message"
-
    # Push changes to GitHub
    git push origin main
    ```
