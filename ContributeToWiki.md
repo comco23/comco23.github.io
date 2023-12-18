@@ -70,7 +70,7 @@ For more detail information about the default Jekyll folder structure, please re
 ### 7. **Create a post on the wiki page**
 
 - Please adhere to existing structure on naming a file in the `_posts` folder
-- Some examples here on how to write in markdown: [Markdown examples from the Minimal theme](/markdown-examples) and [Markdown example from the Jekyll website](https://aksakalli.github.io/jekyll-doc-theme/docs/cheatsheet/)
+- Some examples here on how to write in markdown: [Markdown examples from the Minimal theme](/MarkdownExamples) and [Markdown example from the Jekyll website](https://aksakalli.github.io/jekyll-doc-theme/docs/cheatsheet/)
 
 ### 8. **Publish your changes**
 
