@@ -4,10 +4,17 @@ layout: default
 
 ## welcome!
 
-welcome to the nbp lab wiki page.
+welcome to the nbp lab wiki page!
 
 ## onboarding
-are you an intern, HiWi, BSc, MSc, PhD, or Postdoc in the Nbp? here are some useful documents.
+
+If you are completely new to nbp and/or the University Osnabrück:
+
+Please go through the [starting at nbp page](/StartingAtNBP), there you will find basic information about starting work at the nbp. Note the two documents that need to be filled out and returned to the secretary: the “Check in form”, and the “Application for Obtaining a Key/Transponder” (“Antrag Schluessel-Transponderausgabe”).
+
+You will also find a few more documents on general aspects of life at the NBP such as Safety Guidelines, tips on how to write your thesis and general forms that you might need during your stay here. Have a look at these documents. They might really help you.
+
+Here are some useful documents.
 
 * [check in form](/slides/5-check-in-form.pdf)
 * [transponder application](slides/3-transponder-application.pdf)
@@ -19,7 +26,20 @@ are you an intern, HiWi, BSc, MSc, PhD, or Postdoc in the Nbp? here are some use
 * [how to give good talks](slides/7-GivingGoodTalks.pdf)
 * [guidelines for paper revisions](slides/8-GuidelinesForRevisions.pdf)
 
-get added to the communication channels (Telegram groups, email lists): xxx, xxx
+## information specific to the PhDs:
+* How do I enroll as a PhD student at the University of Osnabrück? Please read this page: [how to enroll as a PhD student](/EnrollPhDStudent)
+* [How to hand in your PhD Thesis](/PhDThesisSubmission)
+ 
+## Onboarding of new HiWis:
+
+* After having signed the contract, download the [HiWi time sheet](/slides/HiWiTimeSheet.pdf).You have to keep count of your working hours through the month and deliver the complete form no more than 7 days after the last day of the month. Please keep the following factors in mind:
+* Your form needs to be signed by you and by Peter. So please deliver it to Julia with enough time for the signature.
+* After 6 hours you have to take a minimum of 30 minutes break, and this should be reflected on your form.
+* Your are not allowed to report work on Sundays and public holidays.
+* Please keep in mind there is a limited weekly working hours you can report.
+* For more tips on how to fill this form please check this document [HiWi time sheet](/slides/HiWiTimeSheet.pdf)
+* Getting a transponder: Check out [starting at nbp page](/StartingAtNBP) for the procedure of getting a transponder in order to get access to rooms.
+* In the very near future, there will be a different procedure for filling in your hours. It will then be in digital form. Come back to stay updated.
 
 ## tea time calendar winter semester 2023-2024
 
@@ -30,10 +50,6 @@ get added to the communication channels (Telegram groups, email lists): xxx, xxx
 | Thursday     | 01.02.2024        | Debora Nolte    |
 | Monday       | 01.02.2024        | free            |
 | Thursday     | 08.02.2024        | Tracy Sanchez   |
-
-## data analysis and management
-
-useful information about university lab computers and how to work with them
 
 ## contribute to the wiki page
 
