@@ -3,8 +3,13 @@ layout: default
 title: "How to Submit your PhD Thesis"
 ---
 
-If you are fluent in German, we recommend the promotion page of the psychology department.
-If not, here is the English version. So you need:
+## How to Submit your PhD Thesis
+
+If you are fluent in German, we recommend the [promotion page](https://www.psycho.uni-osnabrueck.de/studium_lehre/promotion/ablaufplan.html) of the psychology department.
+
+If not, here is the English version.
+
+### Requirements
 
 * Application for [acceptance at the doctoral committee of the FB 08](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.psychologie-cms.uni-osnabrueck.de%2Ffileadmin%2Fdocuments%2Fpublic%2FAntrag_auf_Annahme_Psy.doc&wdOrigin=BROWSELINK)
 * Specification of dissertation topic
@@ -27,23 +32,21 @@ Enrollment is required at the time of claiming university services (assessment, 
 
 **Keep copies of all these documents in a folder. You will need them later on.**
 
-* Some general notes:
-Professor Heidemann will tell you to read the Promotionsordnung, which you can find [online](https://www.ikw.uni-osnabrueck.de/fileadmin/public/media/pdf/PromO-FB08-PhD_2011-09.pdf).
-You should read it carefully, but it does not hold all the valuable information about the required documents.
+### Some general notes:
 
-Therefore, we made a checklist [PhDSubmissionChecklist](/slides/PhDSubmissionChecklist.pdf) for you. 
+- Professor Heidemann will tell you to read the Promotionsordnung, which you can find [online](https://www.ikw.uni-osnabrueck.de/fileadmin/public/media/pdf/PromO-FB08-PhD_2011-09.pdf). You should read it carefully, but it does not hold all the valuable information about the required documents.
+
+- Therefore, we made a checklist [PhDSubmissionChecklist](/slides/PhDSubmissionChecklist.pdf) for you. 
 
 However, there are some other things you have to keep in mind:
 
-- Start with the thesis early on, and best to do it in LaTeX or Overleaf from the
-very beginning. At first, you need some time if you haven't worked with LaTeX, but a document with more than 100 pages save you a lot of time. Also, there are excellent tutorials on youtube.
+- Start with the thesis early on, and best to do it in LaTeX or Overleaf from the very beginning. At first, you need some time if you haven't worked with LaTeX, but a document with more than 100 pages save you a lot of time. Also, there are excellent tutorials on youtube.
 - Do yourself a favor and use good literature managing software (i.e., Zotero). This will format your references for you.
 - You are free to use any template for your dissertation, but there are sections that you need to have in the following order:
-- Cover page ( optional, but who doesn’t like an excellent cover. remember to follow strict copyrights rules for it, though)
-- Title page normally includes the name of the promotion committee members and the following statement in german. “Dissertation zur Erlangung des Grades Doktor der Naturwissenschaften (Dr. rer. nat.) im Fachbereich Humanwissenschaften der  Universität Osnabrück”, followed by “Osnabrück Year” at the end of the page and your name somewhere on the page.
-
-- A dedication, if you want to dedicate your work to something or someone
-- Acknowledgments ( here, you can thank everyone around you who helped you in your Ph.D.)
+  - Cover page (optional, but who doesn’t like an excellent cover. remember to follow strict copyrights rules for it, though)
+  - Title page normally includes the name of the promotion committee members and the following statement in German. “Dissertation zur Erlangung des Grades Doktor der Naturwissenschaften (Dr. rer. nat.) im Fachbereich Humanwissenschaften der  Universität Osnabrück”, followed by “Osnabrück Year” at the end of the page and your name somewhere on the page.
+  - A dedication, if you want to dedicate your work to something or someone
+  - Acknowledgments ( here, you can thank everyone around you who helped you in your Ph.D.)
   - Abstract
   - Table of contents
   - List of Publications and Talks
@@ -62,21 +65,22 @@ very beginning. At first, you need some time if you haven't worked with LaTeX, b
 
 ### When you are ready to hand in:
 
-You can use the checklist to help you prepare the documents you need for submission. If you are fluent in German, you can also use the site from the department of psychology that you find here. You need at least 3 members for your promotion committee that will read and evaluate your shiny thesis. At least one member should be a professor from IKW, and one should be external and have no affiliation with the University of Osnabrück. Furthermore, they need to cover all the topics mentioned in your thesis. For example, if your thesis covers virtual reality, psychology, and neural networks, the members of your promotion committee should show expertise in these fields.
+- You can use the checklist to help you prepare the documents you need for submission. If you are fluent in German, you can also use the site from the department of psychology that you find here. You need at least 3 members for your promotion committee that will read and evaluate your shiny thesis. At least one member should be a professor from IKW, and one should be external and have no affiliation with the University of Osnabrück. Furthermore, they need to cover all the topics mentioned in your thesis. For example, if your thesis covers virtual reality, psychology, and neural networks, the members of your promotion committee should show expertise in these fields.
 
-You also need a minimum of 3 members, at least one internal and one external, as before, for your disputation ( aka defense session, aka oral exam). These members
-can be different or the same as the members of the previous committee.
+- You also need a minimum of 3 members, at least one internal and one external, as before, for your disputation ( aka defense session, aka oral exam). These members can be different or the same as the members of the previous committee.
 
 ### What happens after submission:
 
 The promotion office’s central committee meets only once per month to approve submitted theses to enter the doctoral procedure ( Hauptverfahren der Promotion) so check the dates in advance with the promotion office. After approval, your nominated committee members have a maximum of 3 months to evaluate your written dissertation. Please note that if the grades from your dissertation differ more than 2 grades, your dissertation will be evaluated by two more external evaluators. This will prolong the entire process for 3 more months.  After your dissertation is graded, you have one month to make an appointment for your disputation session. This means that your whole doctoral procedure can take, in worst case, up to one year . At the end of your disputation, you will receive your final grade, consisting of 1/3 presentaion grade and 2/3 dissertation grade.
 
 ### Preparing for your disputation:
+
 After the members of your promotion committee have assessed your dissertation and sent their evaluation to the promotion office, your disputation organization begins. The promotion office will not directly inform you that your dissertation evaluation is ready. You get usually informed you are ready to plan your defense via a public email currently sent by Beate Eibisch with the following title "Hochschulöffentliche Auslage der Dissertation und der Gutachten im Promotionsverfahren von". Once you see your name in the announcement, you can start planning your disputation. 
 
 Note: there should be at least 3 weeks between the date your evaluation is announced and the date for your disputation since anyone interested should be able to read your dissertation and comment on it if they wish.
 
 We suggest you begin planning by finding the members of your promotion committee for disputation. According to the current Promotionordnung of our faculty, your promotion committee should include the following member:
+
 - One head of the committee ( Vorsitz ): They should be a habilitated member of our faculty ( AKA, professor ) who did not previously read or graded your thesis. The head of the committee is responsible for all the formalities during the disputation session and, even in an online disputation, should be present with you in the same room so make sure they can attend the meeting in person. 
 - Two to four extra members from whom two should be the same members that graded your dissertation, and at least one of them is a member of our faculty.
 - In general, three members and a head of committee is the best option here, since it allows for one person to drop out of the disputation. Two members is the minimum, but if one member is absent e.g. due to sickness, the disputation is cancelled. 
@@ -85,7 +89,7 @@ Therefore you can organize your disputation with a minimum of 3 and at most 5 co
 
 After all the formalities are done and approved, you will receive the signed invitation for your disputation session via email and post a copy of your thesis evaluations. Remember, you can always request to receive the evaluations earlier. Afterward, you need to prepare your presentation! Good luck with your disputation, and try to relax! 
 
-## The day of your disputation:
+### The day of your disputation:
 
 Remember all the organization of the session is on you. Therefore you need to make sure everything works as well as possible. Once the disputation begins, you have at most 30 minutes to present your work. Remember, it is terrible if you present for 31 minutes it is perfectly fine if you finish in 27 minutes, so plan your time well. Once you are finished with your presentation, the questions begin. First, the committee member will ask questions, and afterward, the head of the committee will open the questioning for the public. This part typically takes half an hour. However, there are no set rules, which might go a bit longer. 
 
@@ -95,20 +99,22 @@ The final grade will not be announced to the public, but you are free to do so i
 
 Here is the list of possible grades for your Ph.D.: 
 
-[0.0 - 0.5) : Summa cum laude ( outstanding )
-[0.5 - 1.5) : Magna cum laude ( very good )
-[1.5 - 2.5) : Cum laude ( good )
+[0.0 - 0.5) : Summa cum laude ( outstanding )\
+[0.5 - 1.5) : Magna cum laude ( very good )\
+[1.5 - 2.5) : Cum laude ( good )\
 [2.5 - 3.5) : Rite ( satisfactory / pass )
 
-## What happens after disputation:
+### What happens after disputation:
+
 To finally receive your doctorate title and your degree after your disputation, you have to submit 6 copies of your thesis to the library of the University of Osnabrück as well as one of the following options:
+
 - Submitting 80 more copies to the university library.
 - Submitting an electronic version of the thesis to the university library
 - Publishing your thesis in a scientific journal
 
 You have 12 months to finalize this procedure and receive your degree!
 
-## Publishing your dissertation as e-publication in the university library:
+### Publishing your dissertation as e-publication in the university library:
 
 There is a comprehensive guide in [English](https://www.ub.uni-osnabrueck.de/forschen_publizieren/dissertationen/handout_for_e_dissertations.html) and [German](https://www.ub.uni-osnabrueck.de/forschen_publizieren/dissertationen/handreichung_e_dissertation.html) that you can follow to publish your dissertation.  The person to go if you have questions on this matter is Dr. Hindersmann at the uni library. However, the short list of what you need to do is as follows: 
 
@@ -126,8 +132,6 @@ Note: if your dissertation is cumulative, you must ensure you own the copyright 
 
 once all these steps are done, the promotion office will inform the library that all examination matters for your Ph.D. is done.  After the library receives this information from the promotion office, they will unlock and publish your thesis. Finally, you will be informed by email once your dissertation is published. You can now use your Dr grade and go to the promotion office to receive your official degree! That's all!
 
-
-Keep Calm and
-Ph.D
+Keep Calm and Ph.D
 
 [back](/)

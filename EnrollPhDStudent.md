@@ -2,6 +2,7 @@
 layout: default
 title: "How to Enroll as PhD student"
 ---
+## How to Enroll as PhD student
 
 There are two parts to this process:
 1) Application for acceptance as a PhD student
@@ -45,8 +46,8 @@ Confirmation that you have health insurance in Germany or that you are exempt fr
 
 If you need the documents or have further questions about how to submit them, please contact Ms. Maren Grosse-Wördemann [studentsoffice@uni-osnabrueck.de](studentsoffice@uni-osnabrueck.de) from the Students Office.
 
-## Financial information:
+#### Financial information:
 
-*Students of Osnabrück University currently have to pay semester fees of €367.40 for the winter semester 2021/22. This amount is composed as follows: Fee for Student services (e.g. accommodation and catering) = €73.00; Fee for the Students Union (AStA) = €219.40 *) Administration fee = €75.00*) This fee includes a semester ticket for bus and train (€219.40). The route network is available onwww.asta.uni-osnabrueck.de. You can receive further information on the semester ticket from the AStA: +49 541 9694193. Tuition fees for long-term students will be charged after the standard period of study plus 4 semesters on the amount of €500 per semester.
+Students of Osnabrück University currently have to pay semester fees of €367.40 for the winter semester 2021/22. This amount is composed as follows: Fee for Student services (e.g. accommodation and catering) = €73.00; Fee for the Students Union (AStA) = €219.40 *) Administration fee = €75.00*) This fee includes a semester ticket for bus and train (€219.40). The route network is available onwww.asta.uni-osnabrueck.de. You can receive further information on the semester ticket from the AStA: +49 541 9694193. Tuition fees for long-term students will be charged after the standard period of study plus 4 semesters on the amount of €500 per semester.
 
 [back](/)
