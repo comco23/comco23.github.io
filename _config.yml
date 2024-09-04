@@ -1,11 +1,67 @@
-title: nbp lab wiki
-logo: /assets/img/logo.png
-description: this is the nbp lab wiki page
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
-disqus:
-  shortname: https-nbplabwiki-github-io
-permalink: pretty
+title: Comco 2023
+big_title:
+email: comco@uni-osnabrueck.de
+date: 9<sup>th</sup> - 10<sup>th</sup>, October, 2023
+date1: Beginning of August 2023
+date2: 15<sup>th</sup> September 2023
+date3: 25<sup>th</sup> September 2023
+date4: 1<sup>st</sup> October 2023
+
+phone: +49 (0)541 969-2390
+mobile: 
+keywords: conference
+address: Bohnenkamp-Haus, Botanical Garden Osnabrück, Albrechtstraße 29, 49076 Osnabrück
+description: >- 
+    The interdisciplinary Computational Cognition Conference is in its third year and brings international
+    researchersasdasdasdasd and experts from all over the world to Osnabrück to present and discuss current research and developments
+    in the future-relevant fields of artificial intelligence, machine learning, neuroinformatics, virtual reality and
+    neuroscience. The conference not onsdfsdfly brings international research experts, e.g. from the USA, to Osnabrück, but also
+    offers young students and scientists from Osnabrück an exceptional platform of exchange and networking with the
+    international research community. You may find the previous conference installments here:
+    <a href='http://www.comco2019.com/'> 2019 </a> & <a href='https://comco2021.uni-osnabrueck.de/'> 2021 </a>.
+
+about_hits: >-
+    The Computational Cognition Conference 2023 is hosted by the 
+    <a href='https://www.comco.uni-osnabrueck.de/en/startpage.html'> Research Training Group (RTG) Computational Cognition </a>
+    at the University Osnabrück. With our conference program, we plan to cover a diverse array of cutting-edge research topics
+    throughout (computational) cognitive science and provide a welcoming platform for discussions among researchers.
+
+    <br />
+
+    In the conference, our key area of focus will be the investigation of high-level cognition. While we
+    have made significant progress in understanding the neural signals underlying basic sensorimotor and
+    cognitive processes involved in reasoning, problem solving, spatial navigation, and language, the
+    challenge of explaining how high-level cognition can emerge from low-level mechanisms remains an
+    interesting puzzle in cognitive science.
+
+    <br />
+
+    Keynote speakers from diverse backgrounds including computational neuroscience, neurolinguistics,
+    cognitive modeling, machine learning, and deep learning will share their expertise and present
+    groundbreaking research at the conference. By bringing together these interdisciplinary perspectives,
+    we aim to foster collaboration and spark new ideas that will drive the field of computational cognition
+    forward!
+    
+    <br />
+
+    Stay tuned for more updates on the conference schedule, speakers, and submission guidelines. We look
+    forward to welcoming you to the Computational Cognition Conference 2023!
+
+about_cse: >-
+    
+    In our working group, we aim to understand how meaningful representations emerge from raw signal
+    data and to model high-level cognition such as learning, interaction, spatial navigation and language.
+    We employ various methods from eye-tracking experiments in virtual reality to computational models
+    using deep neural networks and reinforcement learning.
+    <br />
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username: jekyll
+
+# Build settings
+theme: minima
 plugins:
-  - jekyll-pdf-embed
+    - jekyll-feed
+    - jekyll-seo-tag

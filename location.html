@@ -1,0 +1,81 @@
+---
+layout: default
+permalink: /location
+---
+
+<style>
+	.page_wise_banner {
+		background-image: url('assets/img/about/about-15.jpg')
+
+	}
+
+	/* Style for the map container */
+	.map-container {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9 aspect ratio */
+		height: 0;
+		overflow: hidden;
+	}
+
+	/* Style for the iframe within the map container */
+	.map-container iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
+<!--  ABOUT AREA START  -->
+<section id="intro" class="section-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-sm-12 col-md-12">
+				<div class="section-heading">
+					<p class="lead">Conference Venue</p>
+					<h5>The event will take place at: </h5>
+					</br>Bohnenkamp-Haus, Botanical Garden Osnabrück
+					</br>Albrechtstraße 29, 49076 Osnabrück
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-7 col-md-7 col-sm-7 m-auto">
+				<!-- Center the image and map using Bootstrap grid -->
+				<img src="assets/img/about/about-1.jpg" alt="Program Image 1" class="program-image">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="row">
+					{% for data in site.data.visit %}
+					<div class="col-lg-6 col-sm-6 col-md-6">
+						<div class="intro-box">
+							<h4>{{ data.name }}</h4>
+							<ul class="about-list2 my-4">
+								{% for name in data.items %}
+								<li class="mb-2">
+									<i class="icofont icofont-check-circled"></i>
+									{{ name }}
+								</li>
+								{% endfor %}
+							</ul>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-7 col-sm-7 m-auto">
+				<div class="map-container">
+					<iframe id="gmap_canvas"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d827.7619016476302!2d8.02749608903474!3d52.281522816924415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9e582383f4157%3A0x964fbf5e2c681e5a!2sBohnenkamp-Haus%20Osnabr%C3%BCck!5e0!3m2!1sen!2sde!4v1690057100104!5m2!1sen!2sde"
+						width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--  ABOUT AREA END  -->

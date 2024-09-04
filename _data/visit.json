@@ -1,0 +1,41 @@
+[{
+	"name": "By Plane",
+	"items": [
+		"Münster-Osnabrück: 35km",
+		"Bremen Airport: 120km",
+		"Dortmund Airport: 110km",
+		"Hannover Airport: 140km",
+		"Düsseldorf Airport: 175km",
+		"Hamburg Airport: 254km",
+		"Frankfurt Airport: 335km"
+	]
+},
+	{
+		"name": "Accommodation",
+                    "items": [
+                              "<a href='https://www.wyndhamhotels.com/de-de/vienna-house/osnabrueck-germany/vienna-house-remarque-osnabruck/overview'>Vienna House by Wyndham Remarque Osnabrück</a>: 0.8km from the event venue",
+			"<a href='https://hotel-klute.de/'>Hotel Klute</a>: 1.6km from the event venue",
+			"<a href='https://www.hotel-nikolaiort.de/'>Hotel am Nikolaiort</a>: 0.9km from the event venue",
+			"<a href='https://www.dom-hotel-osnabrueck.de/de/'>Dom-Hotel Osnabrück</a>: 1.1km from the event venue",
+			"<a href='https://adelhoff.com/'>Hotel Adelhoff</a>: 1.6km from the event venue",
+			"<a href='https://www.hotel-bb.com/de/hotel/osnabrueck'>B&B Hotel Osnabrück</a>: 1.7km from the event venue",
+			"<a href='https://www.guestreservations.com/walhalla-hotel/booking?msclkid=121d64ad46001d9c8340001040cd7416'>Hotel Walhalla</a>: 2.0km from the event venue"
+                    ]
+	},
+	{
+		"name": "By Car",
+		"items": [
+			"A1: running from the Ruhrgebiet to Hamburg",
+			"A30: running from Amsterdam to Berlin",
+			"A33: running from Bielefeld to Kassel"
+		]
+	},
+	
+	{
+		"name": "By Train & Bus",
+		"items": [
+			"<a href = 'https://www.bahn.com/en'>Homepage of the Deutsche Bahn</a>",
+			"Bus lines 16 & 17: <a href = 'https://www.vos.info/fahrplaner.html'> see the route planner App</a>. Bus lines 16 and 17 are direct lines between Osnabrück's central station and the conference venue (bus stop: Caprivistraße). At least every 10 minutes."
+		]
+	}
+]

@@ -1,0 +1,103 @@
+---
+layout: default
+permalink: /submission
+---
+
+<style>
+	.page_wise_banner {
+		background-image: url('assets/img/banner/bg-7.jpg');
+		background-position: center center;
+	}
+
+</style>
+
+{% include sections/fee.html %}
+
+<!--  SERVICE AREA START  -->
+<section class="section-padding">
+	<div class="container">
+
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3" style="color: rgb(148, 5, 5);">Registration is now CLOSED (maximum capacity reached)</h3>
+				<h3 class="mb-3">Important Dates</h3>
+				<ul class="about-list2 my-4">
+					{% for data in site.data.importantdates %}
+					<li class="mb-2">
+						<i class="icofont icofont-check-circled"></i>
+						{{ data }}
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Registration Policies</h3>
+
+				<ul class="about-list2 my-4">
+					{% for data in site.data.instructions %}
+					<li class="mb-2">
+						<i class="icofont icofont-check-circled"></i>
+						{{ data }}
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Submission Guidelines</h3>
+				<p> It is possible to contribute to the conference via a poster and/or a short talk. </p>
+
+
+				<ul class="about-list2 my-4">
+					{% for data in site.data.guidelines %}
+					<li class="mb-2">
+						<i class="icofont icofont-check-circled"></i>
+						{{ data }}
+					</li>
+					{% endfor %}
+				</ul>
+				<p>Submitted abstracts will go through a blind review process before being accepted as
+					contribution for the conference. </br>Best poster presentation will be awarded.</p>
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Registration & Submit Your Work </h3>
+				<p class="mb-4">
+					Please use the following link for conference registration & submission:
+					<a
+						href="https://easychair.org/my/conference?conf=comco2023">https://easychair.org/my/conference?conf=comco2023</a>
+				</p>
+			</div>
+		</div>
+
+		<div class="row align-items-center">
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3">Method of Payment </h3>
+				<h6>Please wire the registration fee to the following bank account:</h6> </br>
+				<p> IBAN: DE82 2505 0000 0101 4320 03 </br>
+				SWIFT/BIC: NOLADE2H </br>
+				Account holder: Universität Osnabrück </br>
+				Bank: Norddeutsche Landesbank </br>
+				Reference number: 60083001230001 </br>
+				Payment details: please always indicate the reference number and your name like this: 60083001230001, surname, first name
+				</p>
+			</div>
+		</div>
+
+		<div class="row align-items-center"> 
+			<div class="col-lg-12 col-sm-12 col-md-12 mb-4">
+				<h3 class="mb-3"> Code of Conduct </h3>
+				<p class="mb-4">
+					Here you may find the <a href="/conduct.html">code of conduct</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!--  ABOUT AREA END  -->      
